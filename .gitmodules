@@ -1,0 +1,12 @@
+[submodule "LinkedList"]
+	path = LinkedList
+	url = https://github.com/wkbae/LinkedList
+[submodule "BinaryTree"]
+	path = BinaryTree
+	url = ../BinaryTree
+[submodule "BinarySearchTree"]
+	path = BinarySearchTree
+	url = ../BinarySearchTree
+[submodule "Graph"]
+	path = Graph
+	url = ../Graph
